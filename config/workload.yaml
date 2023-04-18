@@ -9,6 +9,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/desotech-it/tapdemo.git
+      url: https://github.com/desotech-it/tapdemo
       ref:
         branch: main
